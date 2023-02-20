@@ -1,0 +1,34 @@
+
+
+body{
+    margin: 0;
+    background-color: rgb(84, 1, 26);
+}
+
+.color{
+    width: 100%;
+    height: 1000px;
+  background-color: rgb(84, 1, 26);
+}
+
+.navbar{
+    background-color: rgba(138, 105, 174, 0.976) ;
+   width: 100%;
+   height: 50px;
+   color: white;
+  justify-content: end;
+   position: fixed;
+   display: inline-flex;
+   font-size: 10px;
+   margin: 0px;
+
+   
+}
+
+nav div h1 {
+    margin:20px ;
+}
+
+.na{
+    margin-right: 350px;
+}
